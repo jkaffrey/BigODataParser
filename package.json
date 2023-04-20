@@ -1,0 +1,20 @@
+{
+  "name": "jkaffrey_bitly_backend_challenge",
+  "version": "0.0.1",
+  "description": "Backend assement for software engineer role at bit.ly",
+  "main": "./src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/main.js",
+    "test": "jasmine"
+  },
+  "author": "Jeremy Kaffrey",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "JSONStream": "^1.3.5"
+  },
+  "devDependencies": {
+    "jasmine": "^4.6.0"
+  }
+}

@@ -9,6 +9,6 @@ After node has been downloaded and configured on your OS
 - Open a terminal or powershell based on your OS and run the following commands.
     - `npm install` This will install the libraries that were utilized for the project: fs, JSONStream and Jasmine
 
-With required packages have been installed, you can run either of the following commands
+With the required packages installed, you can now run either of the following commands
 - `npm start` This will start the project and output the results specified in the backend_eng_coding_challenge.md
 - `npm test` This will begin and output the results of the jasmine unit tests for this project
